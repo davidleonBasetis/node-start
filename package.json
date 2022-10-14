@@ -1,0 +1,23 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "hola mundo con node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidleonBasetis/node-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidleonBasetis/node-start/issues"
+  },
+  "homepage": "https://github.com/davidleonBasetis/node-start#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
